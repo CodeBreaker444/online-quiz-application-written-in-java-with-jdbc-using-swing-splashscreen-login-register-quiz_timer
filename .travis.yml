@@ -1,0 +1,7 @@
+language: generic
+addons:
+  apt:
+    packages:
+      - oracle-java8-set-default
+install:
+  - /usr/lib/jvm/java-8-oracle/jre/bin/java -Xmx1G -Xss32m -jar CB_QUIZ_using_JDBC_with_splashscreen.jar src/main.rsc
