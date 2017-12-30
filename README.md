@@ -1,5 +1,6 @@
+# Online CB_QUIZ Application written in java with jdbc using swing components  ![](https://travis-ci.org/CodeBreaker444/online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer.svg?branch=master)
 `<Basic Version Here>` : [Click Here](https://github.com/srilekhadasari/online-quiz-application-in-java-with-jdbc-using-swing-login-registration-timer).
-# Online CB_QUIZ Application written in java with jdbc using swing components  
+
 ## Features
 - StartUp Screen.
 - Login.
