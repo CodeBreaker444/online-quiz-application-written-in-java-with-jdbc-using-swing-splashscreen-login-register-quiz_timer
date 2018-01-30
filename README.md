@@ -28,13 +28,6 @@ passwd
 ## Instructions to Import into Eclipse:
 `Eclipse > File >Open projects from filesystem > Directory > Now Select the CB_QUIZ folder`
 
-## Screenshots
-![](https://github.com/CodeBreaker444/online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer/blob/master/Screenshots/splash-online.png)![](https://github.com/CodeBreaker444/online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer/blob/master/Screenshots/online-login.png)![](https://github.com/CodeBreaker444/online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer/blob/master/Screenshots/online-registration.png)![](https://github.com/CodeBreaker444/online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer/blob/master/Screenshots/splash-offline.png)
-> This above is an Offline Screenshot of the Application。
-![](https://github.com/CodeBreaker444/online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer/blob/master/Screenshots/questions-quiz.png)![](https://github.com/CodeBreaker444/online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer/blob/master/Screenshots/results-quiz.png)![](https://github.com/CodeBreaker444/online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer/blob/master/Screenshots/answers-quiz.png)
-
-
-
 ## Personal INFO:
 `Donations Help Me to Keep The Support and Development:` [Click Here](https://paypal.me/zer0error).
 
@@ -43,6 +36,12 @@ passwd
 `PlayStore Link:` [Codebreaker](https://play.google.com/store/apps/dev?id=8331274631553271784&hl=en).
 
 `Website:` [StarTech](http://cbstartech.com).
+
+## Screenshots
+![](https://github.com/CodeBreaker444/online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer/blob/master/Screenshots/splash-online.png)![](https://github.com/CodeBreaker444/online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer/blob/master/Screenshots/online-login.png)![](https://github.com/CodeBreaker444/online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer/blob/master/Screenshots/online-registration.png)![](https://github.com/CodeBreaker444/online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer/blob/master/Screenshots/splash-offline.png)
+> This above is an Offline Screenshot of the Application。
+![](https://github.com/CodeBreaker444/online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer/blob/master/Screenshots/questions-quiz.png)![](https://github.com/CodeBreaker444/online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer/blob/master/Screenshots/results-quiz.png)![](https://github.com/CodeBreaker444/online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer/blob/master/Screenshots/answers-quiz.png)
+
 
 
 `<Basic Version Here>` : [Click Here](https://github.com/srilekhadasari/online-quiz-application-in-java-with-jdbc-using-swing-login-registration-timer).
