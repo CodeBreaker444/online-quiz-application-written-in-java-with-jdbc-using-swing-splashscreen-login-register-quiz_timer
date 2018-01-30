@@ -40,7 +40,7 @@ passwd
 
 `FollowMe:` [Click Here](https://facebook.com/zer0error/).
 
-`PlayStore Link:` [WhatsRooting](https://play.google.com/store/apps/details?id=codebreaker.gsl.whatsrooting).
+`PlayStore Link:` [Codebreaker](https://play.google.com/store/apps/dev?id=8331274631553271784&hl=en).
 
 `Website:` [StarTech](http://cbstartech.com).
 
